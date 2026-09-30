@@ -16,6 +16,7 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 
 *Tools that process PDFs entirely in your browser. Files never leave your device.*
 
+- [Olutil PDF Tools](https://pdf.olutil.com/) — Free browser-based PDF tools: merge, split, compress, convert and more. Everything runs client-side; no uploads, no sign-up.
 - [PDF Toolbox](https://pdftoolbox.tech) — Free browser-based PDF tools: compress, merge, split, convert, protect, and unlock PDFs. All processing happens client-side using WebAssembly and pdf-lib.js. No uploads, no registration, no limits.
 - [SimplePDF](https://simplepdf.eu) — Online PDF editor that works in the browser. Fill forms, add text, sign documents. EU-hosted but files are processed client-side.
 - [PDFEscape](https://www.pdfescape.com) — Online PDF editor with form filling and annotation. Basic editing is client-side; some features require upload.
