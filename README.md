@@ -19,6 +19,7 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 - [PDF Toolbox](https://pdftoolbox.tech) — Free browser-based PDF tools: compress, merge, split, convert, protect, and unlock PDFs. All processing happens client-side using WebAssembly and pdf-lib.js. No uploads, no registration, no limits.
 - [SimplePDF](https://simplepdf.eu) — Online PDF editor that works in the browser. Fill forms, add text, sign documents. EU-hosted but files are processed client-side.
 - [PDFEscape](https://www.pdfescape.com) — Online PDF editor with form filling and annotation. Basic editing is client-side; some features require upload.
+- [Drible](https://drible.co/pdf) — 17 free PDF tools: merge, split, rotate, sign, edit with true redaction, protect, unlock, watermark and more. 12 run entirely in the browser (pdf-lib and PDF.js); compress and the four Office conversions upload to a server that deletes the file as soon as the result is sent. No registration, no watermarks.
 
 ## Server-Side (Upload Required)
 
