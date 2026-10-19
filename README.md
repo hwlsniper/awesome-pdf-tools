@@ -29,6 +29,7 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 - [Sejda](https://www.sejda.com) — PDF editor with desktop app option. Free tier: 3 tasks/hour, 200 pages or 50 MB limit.
 - [PDF2Go](https://www.pdf2go.com) — Online PDF converter and editor. Files deleted after 24 hours (claimed).
 - [PDF Candy](https://pdfcandy.com) — 47 online PDF tools. Desktop version also available. Free tier has file size limits.
+- [MangaTranslate](https://www.mangatranslate.com) — Hosted OCR-assisted translation for PDF uploads and images, with an online image editor. Files are uploaded for server-side processing. Limited daily free web credits; paid plans and a separately paid API.
 
 ## Self-Hosted / Open Source
 
