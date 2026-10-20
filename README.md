@@ -44,6 +44,7 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 
 *Full-featured desktop applications for offline PDF work.*
 
+- [Glim](https://github.com/NeoPanic/Glim) — Free, MIT-licensed macOS file viewer with read-only PDF previews rendered locally through PDFKit, alongside Markdown and other files.
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger) — Open-source desktop app for merging, splitting, rotating, and rearranging PDF pages. Python/GTK. ⭐ 3K+
 - [PDFsam](https://pdfsam.org) — Split and merge PDFs on desktop. Free basic version, paid enhanced version.
 - [Okular](https://okular.kde.org) — KDE's universal document viewer with PDF annotation support.
