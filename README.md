@@ -14,6 +14,8 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 
 ## Client-Side (No Upload)
 
+- [SmartToolsy](https://www.smarttoolsy.tech/merge-pdf/) - Free browser-based tools to merge, split, delete or insert pages, and convert JPG to PDF and PDF to JPG. Uses pdf-lib and PDF.js locally; no upload, no sign-up.
+
 *Tools that process PDFs entirely in your browser. Files never leave your device.*
 
 - [PDF Toolbox](https://pdftoolbox.tech) — Free browser-based PDF tools: compress, merge, split, convert, protect, and unlock PDFs. All processing happens client-side using WebAssembly and pdf-lib.js. No uploads, no registration, no limits.
