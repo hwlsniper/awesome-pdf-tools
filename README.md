@@ -14,6 +14,7 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 
 ## Client-Side (No Upload)
 
+*Tools that process PDFs entirely in your browser. Files never leave your device.*
 
 - [Free PDF Converter](https://free-pdf-converter.web-free.site/) — BentoPDF-based PDF toolkit (merge, split, compress, convert and more) that runs in the browser without uploads.
 - [PDF Toolbox](https://pdftoolbox.tech) — Free browser-based PDF tools: compress, merge, split, convert, protect, and unlock PDFs. All processing happens client-side using WebAssembly and pdf-lib.js. No uploads, no registration, no limits.
