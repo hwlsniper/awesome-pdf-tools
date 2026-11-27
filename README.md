@@ -29,6 +29,7 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 - [Sejda](https://www.sejda.com) — PDF editor with desktop app option. Free tier: 3 tasks/hour, 200 pages or 50 MB limit.
 - [PDF2Go](https://www.pdf2go.com) — Online PDF converter and editor. Files deleted after 24 hours (claimed).
 - [PDF Candy](https://pdfcandy.com) — 47 online PDF tools. Desktop version also available. Free tier has file size limits.
+- [TinyMast](https://tinymast.com/pdf-compress/) — Compress a PDF to a size limit you set, plus merge, split, OCR and PDF↔Word/Excel/JPG conversion. Free and no registration; uploaded files and results are deleted within 24 hours.
 
 ## Self-Hosted / Open Source
 
